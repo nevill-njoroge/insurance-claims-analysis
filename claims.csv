@@ -1,0 +1,9 @@
+age,policy_type,premium,claim_amount
+25,Motor,50000,30000
+34,Health,80000,60000
+45,Motor,60000,55000
+29,Health,75000,20000
+52,Life,120000,40000
+31,Motor,55000,45000
+40,Health,90000,85000
+28,Life,110000,30000
